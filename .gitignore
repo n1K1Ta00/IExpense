@@ -60,3 +60,7 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+iExpense/.DS_Store
+iExpense.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+iExpense.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+.DS_Store
